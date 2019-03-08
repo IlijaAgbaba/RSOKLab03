@@ -11,6 +11,7 @@ namespace RSOKLab03
         static void Main(string[] args)
         {
             Console.WriteLine("Ilija Agbaba");
+            Console.WriteLine("new-feature");
             Console.ReadLine();
         }
     }
